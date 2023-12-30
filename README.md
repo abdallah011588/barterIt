@@ -31,7 +31,14 @@ Features and Functionality:
 8. API Requests:
    - The Dio package is employed to handle API requests, ensuring robust and efficient communication with external services.
 
-9. Local Notifications:
+9. Multilingual Support:
+   - Implements localization for both Arabic and English languages to cater to a diverse user base.
+
+10. Theme Options:
+   - Offers a customizable user experience with both light and dark theme options, allowing users to personalize their app interface.
+
+
+11. Local Notifications:
    - Flutter_local_notification is integrated to provide timely alerts and notifications, enhancing user engagement.
 
 Technical Details:
